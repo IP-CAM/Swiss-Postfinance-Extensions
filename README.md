@@ -1,5 +1,9 @@
 # OpenCart
 
+## Demo
+
+You can test the integration by having a look at our [OpenCart Demo Store](https://demo2.sellxed.com/opencart/wallee/).
+
 ## OpenCart 2.0
 The wallee integration for OpenCart 2.0 can be downloaded [here](https://github.com/wallee-payment/OpenCart-2.0)
  
